@@ -1,7 +1,7 @@
 Pengantar Kecerdasan Buatan
-Kelompok 15
+Kelompok 15.
 
-Nama Kelompok:
+Nama Anggota Kelompok:
 - M Afif Zain
 - Devana Gema Falesta
 - Niesya Yulianny
